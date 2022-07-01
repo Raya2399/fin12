@@ -589,7 +589,7 @@ i'm ${botname}, this bot is Whatsapp Multi-Device Beta.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Good ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Fin-Md :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -1460,6 +1460,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Nurutomo
 ├ Rashid
 ├ ZeeoneOfc
+├ Fin_botz
 ├ Penyedia Module
 ╰❒ And All Support
     `
@@ -1475,9 +1476,6 @@ exports.rules = (prefix) => {
 
 🗯️ Bot not or slow to respond ?
 ➡️ May be affected by network, signal, banned by Whatsapp and some reason.
-
-🗯️ Where can I get the script from this bot ?
-➡️ You can get this script on YouTube ZEEONE OFC
 
 🗯️ Can I add to the group?
 ➡️ For that it depends on the bot owner himself
@@ -2129,6 +2127,7 @@ exports.tqto = () =>{
 ├ Nurutomo
 ├ Rashid
 ├ ZeeoneOfc
+├ Fin_botz
 ├ Penyedia Module
 ╰❒ And All Support
 `
